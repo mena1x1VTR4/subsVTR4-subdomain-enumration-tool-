@@ -11,3 +11,31 @@ I would really appreciate it if you could share any tips or ideas to help me kee
 -----------------------------------------------------------------------------------------------------------------------------
 
 
+
+## 👾Prerequisites & Installation
+<>Make sure you have Python 3 installed, then install the required libraries: (<  pyfiglet , sys , requests , rich , socket  >)
+
+
+## 🚀 How to Run
+
+*Download both sub.py and menasubs.txt into the same folder. (or cd to the both tool and wordlist file and run it if linux)
+
+*Open CMD (or Terminal) inside that folder.
+
+*Run the script passing your target domain:
+
+## 🤖 Windows
+
+```cmd
+python sub.py target.com
+```
+## 🤖 linux 
+```cmd
+python3 sub.py target.com
+
+```
+
+## 🎲Feedback & tips
+comments :/
+
+
